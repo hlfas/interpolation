@@ -11,7 +11,7 @@
 # Tests for 1D interpolation.
 #++
 
-require 'nmatrix'
+#require 'nmatrix'
 
 $:.unshift File.dirname(__FILE__)
 
